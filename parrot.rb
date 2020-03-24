@@ -1,1 +1,2 @@
-
+def parrot(string)
+end
